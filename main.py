@@ -3,7 +3,7 @@ import csv
 import lines as lines
 
 
-
+# read lines
 
 ines = list()
 memberName = input("Please enter a member's name to be deleted.")
